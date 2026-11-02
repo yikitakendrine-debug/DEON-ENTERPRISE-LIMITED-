@@ -1,0 +1,6 @@
+{
+  "name": "DEON ENTERPRISE - Beyond Service",
+  "description": "DEON ENTERPRISE - Leading Design & Printing Company in Kampala, Uganda. Large Format Printing, Digital Press, Material Branding, 3D Signage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
